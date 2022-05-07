@@ -7,7 +7,6 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-      - Gemfile.lock
 
 jobs:
   continuous-delivery:
