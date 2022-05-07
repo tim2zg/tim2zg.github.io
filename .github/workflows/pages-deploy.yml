@@ -7,6 +7,7 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+      - Gemfile.lock
 
 jobs:
   continuous-delivery:
@@ -17,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0  # for posts's lastmod
+          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
