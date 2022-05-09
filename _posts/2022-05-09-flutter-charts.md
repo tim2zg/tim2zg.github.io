@@ -2,8 +2,8 @@
 layout: post
 title: "FLutter Charts with InfluxDB"
 date: 2022-05-09
-categories: My-thoughts
-tags: My-thoughts tim2zg brainf0ck theories trueorfalse
+categories: programming
+tags: flutter tim2zg dart influx influxdb charts
 ---
 # Flutter Charts tutorial with Influx as a data source.
 
