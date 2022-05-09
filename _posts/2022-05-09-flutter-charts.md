@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FLutter Charts with InfluxDB"
+title: "Flutter Charts with InfluxDB"
 date: 2022-05-09
 categories: programming
 tags: flutter tim2zg dart influx influxdb charts
@@ -18,9 +18,7 @@ First, we add the dependencies:
 `influxdb_client: ^2.2.0`
 
 Because if we query data from the DB, it should happen asynchronous (at the same time in the background). We need to build the Charts with a Future builder.
-
-
-```Dart
+```
 import 'package:charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
@@ -59,8 +57,7 @@ class datachartwidget extends State<datachart> { // Our Chart widget
 ```
 
 We made a constructor which will return a time chart as soon as the function returns the data. But we first must make such a function that queries the data from the DB.
-
-```Dart
+```
 import 'package:influxdb_client/api.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
@@ -113,7 +110,7 @@ I would write the getdata function in another file and import it:
 
 ``charts.dart``:
 
-```Dart
+```
 import 'package:charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 import 'getdata.dart';
@@ -150,11 +147,10 @@ class datachartwidget extends State<datachart> { // Our Chart widget
     );
   }
 }
-
 ```
 ``getdata.dart``:
 
-```Dart
+```
 import 'package:influxdb_client/api.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
@@ -198,7 +194,6 @@ class data {
 
   data(this.time, this.value);
 }
-
 ```
 
 This requires importing the other file into the ``charts.dart`` as seen at the top. Additionally, you hat so add the time span and the frequency. For Example, all the data from a day and a value per Minute. With these parameters, you can control the bandwidth and the tress of your database.
