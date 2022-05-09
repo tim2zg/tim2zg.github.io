@@ -8,7 +8,7 @@ tags: My-thoughts tim2zg brainf0ck theories trueorfalse
 
 Ok, we never can say something is 100% true. Our mind is a network that contains points that are connected. If two points are stronger connected, we remember something clearer. And vice versa. If its sounds like an AI or a Neuronal Network it’s because it is, just a few billion times faster and more complex and it’s built on biochemical reactions instead of silicon.
 
-The Problem: These things just give us a more likely or a less likely not a true or false. You can notice this if you get older  you forget some things and aren’t quite sure if something really happened.
+The Problem: These things just give us a more likely or a less likely not a true or false. You can notice this if you get older -> you forget some things and aren’t quite sure if something really happened.
 
 Now I say: we can’t prove that something happened without Objects: Because of the rules I mentioned above, we can’t be sure something happened. Unless other people say that too.
 
