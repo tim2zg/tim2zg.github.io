@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nothing is true"
+title: "FLutter Charts with InfluxDB"
 date: 2022-05-09
 categories: My-thoughts
 tags: My-thoughts tim2zg brainf0ck theories trueorfalse
