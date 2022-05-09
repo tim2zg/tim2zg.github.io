@@ -20,7 +20,7 @@ First, we add the dependencies:
 Because if we query data from the DB, it should happen asynchronous (at the same time in the background). We need to build the Charts with a Future builder.
 
 
-``` flutter
+```Dart
 import 'package:charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
@@ -60,7 +60,7 @@ class datachartwidget extends State<datachart> { // Our Chart widget
 
 We made a constructor which will return a time chart as soon as the function returns the data. But we first must make such a function that queries the data from the DB.
 
-``` flutter
+```Dart
 import 'package:influxdb_client/api.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
@@ -113,7 +113,7 @@ I would write the getdata function in another file and import it:
 
 ``charts.dart``:
 
-```flutter
+```Dart
 import 'package:charts_flutter/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 import 'getdata.dart';
@@ -154,7 +154,7 @@ class datachartwidget extends State<datachart> { // Our Chart widget
 ```
 ``getdata.dart``:
 
-```
+```Dart
 import 'package:influxdb_client/api.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
 
