@@ -198,4 +198,6 @@ class data {
 
 This requires importing the other file into the ``charts.dart`` as seen at the top. Additionally, you hat so add the time span and the frequency. For Example, all the data from a day and a value per Minute. With these parameters, you can control the bandwidth and the tress of your database.
 
-I hope it help you and have a nice day!
+These code snippets are modified samples from: [Here](https://google.github.io/charts/flutter/gallery.html)
+
+I additionally uploaded the files: [Here](https://github.com/tim2zg/blog_samples)
