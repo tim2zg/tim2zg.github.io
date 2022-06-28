@@ -20,7 +20,7 @@ All in all, it’s a bit sad that every 11 minutes someone dies because of suici
 
 If you are still here, thank you. If you are in a dark mood today, just know you are not alone. And a lot of the time music can help. Here are some recommendations:
 
-Mix playlist: https://open.spotify.com/playlist/37i9dQZF1EIXLFlmH8NojD?si=469642918e85429f
+Mix playlist: [Playlist](https://open.spotify.com/playlist/37i9dQZF1EIXLFlmH8NojD?si=469642918e85429f)
 
 Some good artists: JoshA / Lil Revive, iamjakehill, AK, NEFFEX, MASN, convolk, jxdn
 
@@ -28,11 +28,17 @@ Stay strong, you are amazing!
 
 Sources:
 
-https://trends.google.de/trends/explore?date=all&q=%2Fm%2F09zn19
-https://www.tagesschau.de/ausland/amerika/psychische-probleme-unicef-101.html
-https://www.unicef.de/blob/249260/edaf3ba04acccecb7381214b7ef0c4f0/sowcr-2021-data.pdf
-https://www.gmx.ch/magazine/ratgeber/kind-familie/suizid-haeufigste-todesursache-juengeren-wissen-36299342
-https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen/spezifische.html
-https://dam-api.bfs.admin.ch/hub/api/dam/assets/15084042/master
-https://en.wikipedia.org/wiki/Impostor_syndrome
+[Google Trends](https://trends.google.de/trends/explore?date=all&q=%2Fm%2F09zn19)
+
+[Tagesschau](https://www.tagesschau.de/ausland/amerika/psychische-probleme-unicef-101.html)
+
+[Unicef](https://www.unicef.de/blob/249260/edaf3ba04acccecb7381214b7ef0c4f0/sowcr-2021-data.pdf)
+
+[Gmx](https://www.gmx.ch/magazine/ratgeber/kind-familie/suizid-haeufigste-todesursache-juengeren-wissen-36299342)
+
+[Admin](https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/sterblichkeit-todesursachen/spezifische.html)
+
+[Admin](https://dam-api.bfs.admin.ch/hub/api/dam/assets/15084042/master)
+
+[Admin](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
